@@ -3,8 +3,9 @@ The SQL and Python code provided is well-organized and covers a range of analyse
 
 **Dataset:** The dataset "car_dekho.csv" provides a comprehensive view of the car market from 1994 to 2023. This analysis explores various aspects of the data, using SQL queries and Python code to derive insights into car prices, fuel types, mileage, and more. The following analyses and visualizations present a detailed examination of the car industry's evolution over nearly three decades. The SQL and Python code provided is well-organized and covers a range of analyses on the car data.
 **Attributes of the Data:**
-
 | Model | Year INT | Price | km_driven | Fuel | Seller_Type | Transmission | Owner_Type | Mileage | Engine_CC | Power | Torque | Seats |
+|-------|----------|-------|-----------|------|-------------|--------------|------------|---------|-----------|-------|--------|-------|
+| ...   | ...      | ...   | ...       | ...  | ...         | ...          | ...        | ...     | ...       | ...   | ...    | ...   |
 
 **Q1. How has the average price of cars changed over the years for different fuel types?**
 ![Q1](https://github.com/user-attachments/assets/a6cf524e-84a8-4935-85c2-69317aced597)
