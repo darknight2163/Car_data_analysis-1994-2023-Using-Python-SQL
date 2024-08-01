@@ -8,3 +8,13 @@ Q1. How has the average price of cars changed over the years for different fuel 
 - CNG: The average price for CNG cars has shown a noticeable increase in recent years, reflecting a growing trend.
 - LPG: LPG cars have experienced fluctuating prices over the years, with some peaks and troughs.
 - Electric: Electric cars have seen a sharp increase in average price, especially in the latest years, indicating a rise in premium pricing for new technology.
+
+Q2. Question: Which fuel type offers the highest and lowest average mileage based on the data?
+![Q2](https://github.com/user-attachments/assets/1a693e19-f45d-4fa4-b9b2-a989f05e13d2)
+- The electric cars have the highest average mileage at approximately 32.52 km per liter, while LPG cars have the lowest average mileage at about 18.58 km per liter.
+
+
+
+
+
+
