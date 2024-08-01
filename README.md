@@ -1,5 +1,5 @@
 # Car_data_Analysis(1994-2023)
-The SQL and Python code provided is well-organized and covers a range of analyses on the car data. 
+The SQL and Python code provided is well-organized and covers a range of analysis on the car data. 
 
 **Dataset:** The dataset "car_dekho.csv" provides a comprehensive view of the car market from 1994 to 2023. This analysis explores various aspects of the data, using SQL queries and Python code to derive insights into car prices, fuel types, mileage, and more. The following analyses and visualizations present a detailed examination of the car industry's evolution over nearly three decades. The SQL and Python code provided is well-organized and covers a range of analyses on the car data.
 
