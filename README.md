@@ -1,6 +1,7 @@
 # Car_data_Analysis(1994-2023)
 The SQL and Python code provided is well-organized and covers a range of analyses on the car data. 
 
+
 **Q1. How has the average price of cars changed over the years for different fuel types?**
 ![Q1](https://github.com/user-attachments/assets/a6cf524e-84a8-4935-85c2-69317aced597)
 - Diesel: The average price of diesel cars has generally increased over the years, with significant jumps around 2010 and 2020.
@@ -22,8 +23,18 @@ The SQL and Python code provided is well-organized and covers a range of analyse
 
 - The bar chart reveals a clear shift in preference: petrol cars have been consistently the most common, while the presence of diesel, CNG, and LPG cars has fluctuated. Diesel cars saw a significant rise in the mid-2000s, while CNG and LPG cars have become less common over time. In recent years, there has been an increase in electric cars, indicating a shift towards more sustainable options.
 
+**Q5. Which feature shows the highest positive correlation with the average price of cars?**
+![Q5_6](https://github.com/user-attachments/assets/72cbf562-54c0-43e6-8105-2edb2aa1e42a)
+- The feature with the highest positive correlation with the average price of cars is Avg_max_power, with a correlation coefficient of 0.50. This suggests that as the maximum power of the car increases, the average selling price tends to rise. This correlation implies that more powerful cars are generally priced higher, which could be due to their perceived performance and desirability.
+  
+**Q6. Is there a strong negative correlation between average mileage and engine capacity?**
+- From the correlation matrix: Avg_Mileage and Avg_CC have a strong correlation of -0.294483. A correlation of -0.294483 indicates a moderate negative correlation between average mileage and engine capacity. While not extremely strong, it suggests that higher engine capacity is somewhat associated with lower average mileage.
 
-
+**Q7. What does the median and variability of Petrol vehicle selling prices tell us about their pricing distribution?**
+![Q7](https://github.com/user-attachments/assets/991cc854-3cf1-4f3c-9623-7e5ddd6efafb)
+- Median Selling Price: ₹650,000
+- Variability: The IQR is ₹279,000, indicating that the central 50% of Petrol vehicle prices fall within this range.
+- Outliers: 65 outliers suggest that there are many Petrol vehicles with prices significantly different from the norm.
 
 
 
