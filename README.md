@@ -42,6 +42,11 @@ The SQL and Python code provided is well-organized and covers a range of analysi
 - Variability: The IQR is ₹279,000, indicating that the central 50% of Petrol vehicle prices fall within this range.
 - Outliers: 65 outliers suggest that there are many Petrol vehicles with prices significantly different from the norm.
 
+**Outcome**
+- The comprehensive analysis of the car dataset from 1994 to 2023 has yielded several key insights like  price trends, mileage insights, selling price evolution, fuel type preference, feature preference and capacity. These findings provide valuable insights into the dynamics of the car market, highlighting trends, preferences, and key factors influencing vehicle prices and performance. This analysis can aid stakeholders in understanding market shifts and making informed decisions.
+
+
+
 
 
 
