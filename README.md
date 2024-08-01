@@ -1,4 +1,4 @@
-# Car_data_Analysis-1994-2023
+# Car_data_Analysis(1994-2023)
 The SQL and Python code provided is well-organized and covers a range of analyses on the car data. 
 
 Q1. How has the average price of cars changed over the years for different fuel types?
@@ -11,8 +11,11 @@ Q1. How has the average price of cars changed over the years for different fuel 
 
 Q2. Question: Which fuel type offers the highest and lowest average mileage based on the data?
 ![Q2](https://github.com/user-attachments/assets/1a693e19-f45d-4fa4-b9b2-a989f05e13d2)
-- The electric cars have the highest average mileage at approximately 32.52 km per liter, while LPG cars have the lowest average mileage at about 18.58 km per liter.
+- Electric cars have the highest average mileage at approximately 32.52 km per litre, while LPG cars have the lowest average mileage at about 18.58 km per litre.
 
+Q3. How has the average selling price of cars evolved over the years?
+![Q3](https://github.com/user-attachments/assets/160fa0e8-1a7a-449a-9950-be5e72274554)
+- There has been a significant increase in the average selling price of cars over the years. Starting from around ₹72,000 in 1994, the average price has risen steadily, reaching approximately ₹1,896,833 in 2023. This upward trend reflects increasing car prices over time.
 
 
 
